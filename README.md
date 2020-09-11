@@ -4,7 +4,7 @@ S.K.O.C. to Schron Kierowania Obroną Cywilną w Przemyślu, dawniej jeden z obi
 
 ### W ramach pomocy:<br><br>
 <ul>
-  <li>Tworzyłem plakaty i grafiki reklamowe</li>
+  <li>Tworzyłem plakaty, grafiki reklamowe oraz krótkie filmy</li>
   <li>Napisałem kilka artykułów do lokalnych mediów</li>
   <li>Stworzyłem <a href="https://pl.wikipedia.org/wiki/Schron_Kierowania_Obron%C4%85_Cywiln%C4%85">artykuł</a> na wikipedii</li>
   <li>Pomogłem w organizacji kilku wydarzeń we współpracy z lokalnymi oraz krajowymi organizacjami, jak np. III Noc Fortyfikacji</li>
