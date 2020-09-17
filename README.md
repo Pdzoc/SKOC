@@ -1,6 +1,8 @@
+Technologie użyte w budowie: `HTML5` `CSS3` `SASS`
+
 # SKOC
 
-S.K.O.C. to Schron Kierowania Obroną Cywilną w Przemyślu, dawniej jeden z obiektów z czasów zimnej wojny, dziś mieści się tam muzeum. Od listopada 2016 do końca 2019 roku jako wolontariusz pomagałem w promowaniu tego miejsca, a od kwietnia 2017 byłem też redaktorem fanpage'a na FB.
+S.K.O.C. to Schron Kierowania Obroną Cywilną w Przemyślu, dawniej jeden z obiektów z czasów zimnej wojny, dziś mieści się tam muzeum. Od listopada 2016 do końca 2019 roku jako wolontariusz pomagałem w promowaniu tego miejsca, a od kwietnia 2017 byłem też redaktorem fanpage'a na FB. Strona jest "magazynem" moich prac oraz stanowi podsumowanie mojej współpracy. Znajdziesz tu informacje: kto założył muzeum w schronie, jaka była "misja" tego miejsca i jakie znaczenie odegrało w mieście.
 
 ### W ramach pomocy:<br><br>
 <ul>
