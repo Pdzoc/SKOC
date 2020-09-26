@@ -13,5 +13,5 @@ S.K.O.C. to Schron Kierowania Obroną Cywilną w Przemyślu, dawniej jeden z obi
   <li>Oprowadzałem turystów w schronie</li>
 </ul>
 <br><br>
--> <a href="https://www.facebook.com/SKOC.Przemysl/">Strona FB schronu</a><br>
--> <a href="http://www.schron.webfabryka.pl/">Oficjalna strona schronu</a>
+-> <a href="https://www.facebook.com/SKOC.Przemysl/" target="_blank">Strona FB schronu</a><br>
+-> <a href="http://www.schron.webfabryka.pl/" target="_blank">Oficjalna strona schronu</a>
