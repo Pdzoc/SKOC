@@ -7,7 +7,7 @@ S.K.O.C. to Schron Kierowania Obroną Cywilną w Przemyślu, dawniej jeden z obi
 ### W ramach pomocy:<br><br>
 <ul>
   <li>Tworzyłem plakaty, grafiki reklamowe, krótkie filmy oraz sesje zdjęciowe</li>
-  <li>Napisałem kilka artykułów do lokalnych mediów</li>
+  <li>Napisałem kilka artykułów do lokalnych mediów oraz ebook <a href="https://github.com/Pdzoc/S.K.O.C-Ebook/blob/main/G%C5%82osy%20z%20tunelu.pdf">"Głosy z tunelu..."</a></li>
   <li>Stworzyłem <a href="https://pl.wikipedia.org/wiki/Schron_Kierowania_Obron%C4%85_Cywiln%C4%85">artykuł</a> na wikipedii</li>
   <li>Pomogłem w organizacji kilku wydarzeń we współpracy z lokalnymi oraz krajowymi organizacjami, jak np. III Noc Fortyfikacji</li>
   <li>Oprowadzałem turystów w schronie</li>
