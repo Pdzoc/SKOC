@@ -1,3 +1,5 @@
+W budowie / Work in progress
+
 Technologie użyte w budowie: `HTML5` `CSS3` `SASS`
 
 Link: [Biurko Montera](https://pdzoc.github.io/SKOC/)
@@ -8,11 +10,13 @@ S.K.O.C. to Schron Kierowania Obroną Cywilną w Przemyślu, dawniej jeden z obi
 
 ### W ramach pomocy:
 
+  * Stworzyłem i prowadziłem fanpage FB "Wydział Wywiadu", później prowadziłem bezpośredni fanpage S.K.O.C
   * Tworzyłem plakaty, grafiki reklamowe, krótkie filmy oraz sesje zdjęciowe
   * Napisałem kilka artykułów do lokalnych mediów oraz ebook ["Głosy z tunelu..."](https://github.com/Pdzoc/S.K.O.C-Ebook/blob/main/G%C5%82osy%20z%20tunelu.pdf)
   * Stworzyłem [artykuł](https://pl.wikipedia.org/wiki/Schron_Kierowania_Obron%C4%85_Cywiln%C4%85) na wikipedii
   * Pomogłem w organizacji kilku wydarzeń we współpracy z lokalnymi oraz krajowymi organizacjami, jak np. III Noc Fortyfikacji
-  * Oprowadzałem turystów w schronie
+  * Zainicjowałem ideę stworzenia escape room w schronie (obecnie zawieszony)
+  * Pełniłem rolę przewodnika w schonowym muzeum
 
 
 - [Strona FB schronu](https://www.facebook.com/SKOC.Przemysl/)
