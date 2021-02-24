@@ -1,4 +1,5 @@
 Technologie użyte w budowie: `HTML5` `CSS3` `SASS`
+
 Link: [Biurko Montera](https://pdzoc.github.io/SKOC/)
 
 # SKOC
