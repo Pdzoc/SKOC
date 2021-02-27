@@ -31,3 +31,6 @@ As a volunteer:
 * I created posters, advertising graphics, short videos and photo sessions
 * I wrote few articles for local media and ebook ["Głosy z tunelu..." (Voices from tunnel)](https://github.com/Pdzoc/S.K.O.C-Ebook/blob/main/G%C5%82osy%20z%20tunelu.pdf)
 * I wrote [article for polish Wikipedia](https://pl.wikipedia.org/wiki/Schron_Kierowania_Obron%C4%85_Cywiln%C4%85)
+* I helped organise few events in collaboration with local and national organizations e.g. III Noc Fortyfikacji (Third Night of Fortification)
+* I initiated the idea of escape room in shelter (currently halted)
+* I fulfilled a function of guide in museum
