@@ -112,6 +112,14 @@ footer {
   text-align: center;
 }
 
+.img-right {
+  width: 50%;
+  float: right;
+  margin: 10px 0 10px 10px;
+}
+
+.img-right img {width: 100%;}
+
 
 
 @media screen and (max-width: 600px) {
@@ -134,6 +142,14 @@ footer {
   .container {
     width: 45%;
   }
+
+  .img-right {
+    width: 100%;
+  }
+
+  .img-right img {
+    width: 100%;
+  }
 }
 
 @media screen and (min-width: 601px) {
@@ -145,7 +161,9 @@ footer {
         -ms-flex-align: end;
             align-items: flex-end;
   }
+
+  
 }
 
-figure {float: left; margin: 0 10px 0 0;}
+.monter {float: left; margin: 0 10px 0 0;}
 /*# sourceMappingURL=style.css.map */
