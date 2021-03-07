@@ -24,7 +24,7 @@ S.K.O.C. to Schron Kierowania Obroną Cywilną w Przemyślu, dawniej jeden z obi
 
 
 :uk:
-S.K.O.C stands for Schron Kierowania Obroną Cywilną (Shelter of Managing Civil Defence) - it is object from the Cold War, located in Przemyśl (Podkarpackie Voivodeship). Since 2016 we have museum here thanks to Przemyśl Association of Historic Reconstruction X D.O.K. Since my visit in autumn 2016 I helped advertise this place to the end of 2019. In April 2017 I became an editor of FB fanpage.
+S.K.O.C stands for Schron Kierowania Obroną Cywilną (Shelter of Managing Civil Defence) - it is object from the Cold War, located in Przemyśl (Podkarpackie Voivodeship). Since 2016 we have museum here thanks to Przemyśl Association of Historic Reconstruction X D.O.K. Since my visit in autumn 2016 I helped advertise this place to the end of 2019. In April 2017 I became an editor of FB fanpage. This page is a container of my works and summary of my cooperation. You find here who was the founder of the museum, what was the "mission" of this place and what was the importance of the shelter in our town.
 
 As a volunteer:
 * I created my own fanpage "Wydział Wywiadu"
